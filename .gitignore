@@ -1,2 +1,5 @@
 *.json
 *.7z
+*.csv
+*.zip
+test.py
