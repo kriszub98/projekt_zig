@@ -2,4 +2,6 @@
 *.7z
 *.csv
 *.zip
+*.yml
 test.py
+Keytool
